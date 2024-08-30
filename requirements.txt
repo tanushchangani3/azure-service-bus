@@ -1,0 +1,4 @@
+flask
+flask_restful
+azure-identity
+azure-servicebus
